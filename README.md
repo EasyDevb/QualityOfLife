@@ -1,6 +1,6 @@
 # Quality Of Life
 
-[![https://i.imgur.com/mApOaKP.png]]
+![https://i.imgur.com/mApOaKP.png]
 
 
 Module to open any NPC anywhere
